@@ -68,6 +68,7 @@ function writeYourGeners() {
 }
 
 writeYourGeners();
+11111
 
 
 // Циклы ***
